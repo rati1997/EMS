@@ -3,8 +3,7 @@ import java.util.Scanner;
 class EMS{ 
     
     Scanner in = new Scanner(System.in);
-    
-    
+        
     
     public void create(int x){
         
